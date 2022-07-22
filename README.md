@@ -1,6 +1,7 @@
 # Data Analysis with Python portfolio
 
-This portfolio contains five projects that are part of the "Data Analysis with Python" certification by freeCodeCamp. 
+This portfolio contains five projects that are part of the "Data Analysis with Python" [certification](https://www.freecodecamp.org/certification/wyvkan/data-analysis-with-python-v7) by freeCodeCamp. 
+
 
 ### Project 1: Mean-Variance-Standard Deviation Calculator
 In this project, I created a function using **Numpy** to output the mean, variance, standard deviation, max, min, and sum of the rows, columns, and elements in a 3 x 3 matrix.
@@ -17,6 +18,7 @@ In this project, I analyzed a dataset of demographic data using **Pandas** to an
 * What percentage of the people who work the minimum number of hours per week have a salary of more than 50K?
 * What country has the highest percentage of people that earn >50K and what is that percentage?
 * Identify the most popular occupation for those who earn >50K in India.
+
 For more details, please see: https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/demographic-data-analyzer
 
 ### Project 3: Medical Data Visualizer
