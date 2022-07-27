@@ -7,7 +7,7 @@ This portfolio contains five projects that are part of the "Data Analysis with P
 In this project, I created a function using **Numpy** to output the mean, variance, standard deviation, max, min, and sum of the rows, columns, and elements in a 3 x 3 matrix.
 For more details, please see: https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/mean-variance-standard-deviation-calculator
 
-### Project 2: Demographic Data Analyze
+### Project 2: Demographic Data Analyzer
 In this project, I analyzed a dataset of demographic data using **Pandas** to answer the following questions:
 * How many people of each race are represented in this dataset? 
 * What is the average age of men?
