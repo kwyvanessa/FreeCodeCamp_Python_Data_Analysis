@@ -22,7 +22,7 @@ In this project, I analyzed a dataset of demographic data using **Pandas** to an
 For more details, please see: https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/demographic-data-analyzer
 
 ### Project 3: Medical Data Visualizer
-In this project, I employed **matplotlib**, **seaborn** and **pandas** to visualize and make calculations from medical examination data. 
+In this project, I employed **matplotlib**, **seaborn** and **pandas** to visualize and explore the relationship between cardiac disease, health indicators and lifesrtle choices.
 For more details, please see: https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/medical-data-visualizer
 
 ### Project 4: Page View Time Series Visualizer
